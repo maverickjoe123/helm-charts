@@ -79,8 +79,8 @@ logging:
 #   - Specify the Kubernetes cluster name.
 #     https://docs.newrelic.com/docs/kubernetes-monitoring-integration
 #
-# global:
-#   licenseKey:
+ global:
+   licenseKey:
 #   insightsKey:
 #   customSecretName:
 #   customSecretLicenseKey:
